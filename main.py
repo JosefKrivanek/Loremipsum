@@ -1,0 +1,5 @@
+import random
+
+slova = []
+slabiky = []
+
